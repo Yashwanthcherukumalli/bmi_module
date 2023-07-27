@@ -30,6 +30,7 @@ from bmi_module import interpret_bmi
 bmi = 25.5
 health_category = interpret_bmi(bmi)
 print(f"Interpretation: {health_category}")
+
 3.Health Categories and Interpretation :
 The BMI value is categorized into the following health categories:
 Severely underweight : BMI < 16
