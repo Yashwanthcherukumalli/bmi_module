@@ -1,5 +1,7 @@
 # bmi_module
 BMI Module Documentation
+
+
 Introduction :
 The BMI (Body Mass Index) module is a Python package that provides functions to calculate the BMI
 value based on weight and height, as well as to interpret the BMI value and provide a correspondinghealth category. This module is designed to help users assess their body mass index and gain insightsinto their weight status.
